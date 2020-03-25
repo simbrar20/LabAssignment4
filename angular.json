@@ -3,7 +3,7 @@
   "version": 1, 
   "newProjectRoot": "projects",
   "projects": {
-    "LabAssignment4": {
+    "lab-assignment4": {
       "projectType": "application",
       "schematics": {},
       "root": "",
